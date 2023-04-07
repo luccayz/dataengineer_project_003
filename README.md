@@ -2,7 +2,9 @@
 Desenvolvi a concepção do projeto por meio da união de habilidades já adquiridas com a aquisição de novos conhecimentos, visando ampliar e aprimorar minhas competências na área.
 
 # Diagrama Abstrato do Projeto
--------------------------------
+
+![image](https://user-images.githubusercontent.com/115668126/230623661-55da5b77-8b1c-4f52-88cb-53f446256807.png)
+
 
 ### *Análise Geral*
 
@@ -201,7 +203,7 @@ Desenvolvi a concepção do projeto por meio da união de habilidades já adquir
 
 *Crie uma base de dados com Spark SQL e Persista uma tabela gerenciada.*
 
-### **6.	    Verificando bases de dados criadas e criando base de dado (dbdbproject003), utilizando PySpark.**
+### **6.	    Verificando bases de dados criadas e criando base de dado (dbdbproject003), utilizando SparkSQL.**
 
 ![image](https://user-images.githubusercontent.com/115668126/230516841-3b6358dd-c489-4732-a4be-1774669f249b.png)
 <br><br>
