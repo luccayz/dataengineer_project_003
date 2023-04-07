@@ -9,7 +9,7 @@ Desenvolvi a concepção do projeto por meio da união de habilidades já adquir
 - Criação de alguns recursos dentro do ambiente da Microsoft Azure.
 - Upload de arquivo para um Data Lake Gen2.
 - Criação de uma aplicação no Azure Active Directory.
-- Manuseio do ambiente do Databricks.
+- Manuseio do ambiente do Databricks utilizando PySpark e Spark SQL.
 - Conexão do Databricks com o Azure Data Lake.
 - Processo de ETL (Extract, Transform and Load).
 - Migração de dados para Azure SQL via JDBC.
