@@ -10,19 +10,19 @@ Desenvolvi a concepção do projeto por meio da união de habilidades já adquir
 
 Neste projeto, o foco será a criação de diversos recursos dentro do ambiente da Microsoft Azure, visando otimizar e aprimorar a eficiência das operações de uma empresa em relação ao processamento e análise de dados.
 
-Primeiramente, será implementado o recurso de "Upload de arquivo para um Data Lake Gen2" no Microsoft Azure. Essa funcionalidade permitirá que arquivos estruturados e não estruturados sejam armazenados e gerenciados em um ambiente seguro e escalável, o Data Lake Gen2.
+Primeiramente, será implementado os dados para um Data Lake Gen2 no Microsoft Azure. Essa funcionalidade permitirá que arquivos estruturados e não estruturados sejam armazenados e gerenciados em um ambiente seguro e escalável, o Data Lake Gen2.
 
-Em seguida, será realizada a "Criação de uma aplicação no Azure Active Directory". Isso possibilitará a gestão centralizada de identidades e acesso, bem como garantirá a segurança dos serviços e recursos disponibilizados no ambiente Azure.
+Em seguida, será realizada a Criação de uma aplicação no Azure Active Directory. Isso possibilitará a gestão centralizada de identidades e acesso, bem como garantirá a segurança dos serviços e recursos disponibilizados no ambiente Azure.
 
-Uma etapa fundamental do projeto envolverá o "Manuseio do ambiente do Databricks utilizando PySpark e Spark SQL". Databricks é uma plataforma de análise de dados colaborativa que permite executar o processamento distribuído através do Spark, enquanto PySpark é a interface Python para programar o Spark. Com essas ferramentas, será possível processar grandes volumes de dados e realizar análises complexas.
+Uma etapa fundamental do projeto envolverá o Manuseio do ambiente do Databricks utilizando PySpark e Spark SQL. Databricks é uma plataforma de análise de dados colaborativa que permite executar o processamento distribuído através do Spark, enquanto PySpark é a interface Python para programar o Spark. Com essas ferramentas, será possível processar grandes volumes de dados e realizar análises complexas.
 
-Outro objetivo essencial será a "Conexão do Databricks com o Azure Data Lake". Isso criará um elo entre as duas tecnologias, permitindo que os dados armazenados no Data Lake sejam acessados diretamente no ambiente do Databricks para posterior processamento e análise.
+Outro objetivo essencial será a Conexão do Databricks com o Azure Data Lake. Isso criará um elo entre as duas tecnologias, permitindo que os dados armazenados no Data Lake sejam acessados diretamente no ambiente do Databricks para posterior processamento e análise.
 
 O processo de "ETL (Extract, Transform and Load)" também será implementado. Essa técnica é fundamental para extrair dados de diversas fontes, transformá-los conforme as necessidades do projeto e carregá-los no destino final (no caso, o Data Lake e o Azure SQL).
 
-A seguir, será realizada a "Migração de dados para Azure SQL via JDBC". Esse procedimento possibilitará transferir os dados processados e prontos para uso para um banco de dados Azure SQL, onde poderão ser consultados e utilizados por outras aplicações e serviços.
+A seguir, será realizada a Migração de dados para Azure SQL via JDBC. Esse procedimento possibilitará transferir os dados processados e prontos para uso para um banco de dados Azure SQL, onde poderão ser consultados e utilizados por outras aplicações e serviços.
 
-Por fim, a "Integração Databricks + Power BI" será estabelecida. Power BI é uma ferramenta de visualização de dados da Microsoft, e sua integração com o Databricks permitirá criar relatórios interativos e painéis dinâmicos com base nas análises realizadas na plataforma Databricks.
+Por fim, a Integração Databricks + Power BI será estabelecida. Power BI é uma ferramenta de visualização de dados da Microsoft, e sua integração com o Databricks permitirá criar relatórios interativos e painéis dinâmicos com base nas análises realizadas na plataforma Databricks.
 
 Com a conclusão de todas essas etapas, a empresa terá um ambiente robusto, escalável e eficiente para processamento e análise de dados, além de contar com recursos poderosos para visualização e compartilhamento de insights através do Power BI. Esse projeto oferecerá uma solução completa para otimizar a tomada de decisões e impulsionar o sucesso do negócio por meio da análise de dados no Microsoft Azure.
 
